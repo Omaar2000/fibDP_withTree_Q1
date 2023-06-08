@@ -20,22 +20,10 @@ To compile the source code, follow these steps:
 3. Run the following command to compile the program:
 
 ```bash
-gcc fibonacci.c -o fibonacci
+gcc Q1.c -o Q1
 
 ```
 
+4. The results will be displayed in the console/output.
 
-Replace `fibonacci` with the actual name of the executable file if different.
-
-4. The program will run and calculate the Fibonacci numbers according to the specified logic. The results will be displayed in the console/output.
-
-## Usage
-
-[Optional: Provide any additional information on how to use the program, command-line arguments, input requirements, etc.]
-
-## License
-
-[Specify the license information for your code if applicable.]
-
-[Add any additional sections or information you feel is necessary.]
 
